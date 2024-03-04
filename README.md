@@ -9,4 +9,4 @@ In this challenge, use your knowledge of Python and unsupervised learning to pre
   - scales the data
   - clusters the data using KMeans on all dimensions
   - clusters the data using KMeans but with reduced dimensions using principle components analysis (PCA)
-  - compares the results for the two types of clustering. 
+  - compares the results for the two types of clustering to see if shorter term or longer term factors affect the classification. 
